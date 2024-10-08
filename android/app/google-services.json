@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "21994613240",
+    "project_id": "lxxxxl-w7tx35",
+    "storage_bucket": "lxxxxl-w7tx35.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21994613240:android:9f88dc3a447858d0218e0d",
+        "android_client_info": {
+          "package_name": "com.ffc.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBY6UagWWCAB4bWm1ctRNNaEfv1-gRb3s4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21994613240:android:bbad9dbba7f1b22d218e0d",
+        "android_client_info": {
+          "package_name": "com.mealplanner.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBY6UagWWCAB4bWm1ctRNNaEfv1-gRb3s4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
